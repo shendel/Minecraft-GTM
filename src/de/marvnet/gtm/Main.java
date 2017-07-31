@@ -68,8 +68,8 @@ public class Main extends JavaPlugin {
 		pluginDependencies.add("BarAPI");
 		// pluginDependencies.add("TabAPI");
 		pluginDependencies.add("iDisguise");
-		pluginDependencies.add("GameAPI");
-		pluginDependencies.add("HoloAPI");
+		// pluginDependencies.add("GameAPI");
+		// pluginDependencies.add("HoloAPI");
 		
 		aboutPlugin.clear();
 		
