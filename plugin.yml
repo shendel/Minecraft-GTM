@@ -1,0 +1,23 @@
+name: GTM
+version: 0.0.1
+description: GTA plugin for MineCraft
+author: MarvMan
+website: https://marvnet.de
+
+main: de.marvnet.gtm.Main
+
+commands:
+  items:
+    description: Gives you the Main-Items!
+    
+  credits:
+    description: Credits about the plugin!
+    
+  setpurse:
+    description: Set the purse of a specific player!
+    
+  troll:
+    description: A nice troll command
+    
+  vanish:
+    description: Open up the vanish menu
